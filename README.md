@@ -59,7 +59,8 @@ Provide explanations for data manipulation steps and user input options.
 
 ## Screenshots
 
-[Alt Text](https://github.com/siddharthiyervarma/Live_Covid_Report_Berlin/blob/main/1.png)
+![1](https://github.com/siddharthiyervarma/Live_Covid_Report_Berlin/blob/main/1.png)
+
 
 
 
